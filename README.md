@@ -10,13 +10,16 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - rpi-imager
 - ex-fat fuse + ex-fat utils + ntfs-3g
 
-aditional packages for Python through "pip3" : PyExifTool + pysftp
+aditional packages for Python through "pip3":
+- PyExifTool
+- pysftp
 
+Also:
 - Netflix: Chromium Media Edition
-
 - Pi Apps
-
 - Rclone
+
+
 
 NOTE: will reboot as it finishes!
 
