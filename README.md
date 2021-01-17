@@ -2,23 +2,12 @@
 shell script to install apps and packages for personal use in new Raspberry pi OS installation: 
 
 - sudo apt update and upgrade
-
-
 - libreoffice
-
-
 - firefox-esr
-
-
 - gimp
-
-
 - gparted
-
-
 - matchbox-keyboard
-
-
+- rpi-imager
 - ex-fat fuse + ex-fat utils + ntfs-3g
 
 aditional packages for Python through "pip3" : PyExifTool + pysftp
