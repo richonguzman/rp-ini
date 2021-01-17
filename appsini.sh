@@ -1,8 +1,6 @@
 #!/bin/sh
-# RichonINI.sh will install basic aplication and packages to start
+# appsini.sh will install basic aplication and packages to start
 # fresh Raspberry Pi Os installation for personal use
-
-#clear
 
 #Aplications
 APLICACIONES="libreoffice firefox-esr gimp gparted matchbox-keyboard rpi-imager exfat-fuse exfat-utils ntfs-3g"
