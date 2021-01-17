@@ -1,5 +1,25 @@
 # rp-ini
-shell script to install apps and packages for personal use in new Raspberry pi OS installation
+shell script to install apps and packages for personal use in new Raspberry pi OS installation:
+sudo apt update and upgrade
+libreoffice
+firefox-esr
+gimp
+gparted
+matchbox-keyboard
+ex-fat fuse
+ex-fat utils
+ntfs-3g
+
+aditional packages for Python through "pip3"
+PyExifTool
+pysftp
+
+Netflix: Chromium Media Edition
+
+Pi Apps
+
+NOTE: will reboot as it finishes
+
 
 just run in terminal:
 
