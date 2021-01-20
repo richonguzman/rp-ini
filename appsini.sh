@@ -16,12 +16,13 @@ sudo pip3 install $PAQUETES
 curl -fsSL https://pi.vpetkov.net -o ventz-media-pi
 sh ventz-media-pi
 
+#Rclone
+curl https://rclone.org/install.sh | sudo bash
+
 #Aditional Apps
 git clone https://github.com/Botspot/pi-apps
 ~/pi-apps/install
 
-#Rclone
-curl https://rclone.org/install.sh | sudo bash
 
 #End
 echo "Install complete, rebooting."
