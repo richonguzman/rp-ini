@@ -8,6 +8,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - gparted
 - matchbox-keyboard
 - rpi-imager
+- gnome-screenshot
 - ex-fat fuse + ex-fat utils + ntfs-3g
 
 aditional packages for Python through "pip3":
