@@ -2,23 +2,23 @@
 shell script to install apps and packages for personal use in new Raspberry pi OS installation: 
 
 - sudo apt update and upgrade
-- libreoffice
-- firefox-esr
-- gimp
-- gparted
-- matchbox-keyboard
+- libreoffice (office)
+- firefox-esr (browser)
+- gimp (photoshop-esque)
+- gparted (Drives managment)
+- matchbox-keyboard (for touch-screen also)
+- audacious (mp3 player - Winamp-ish)
 - rpi-imager
-- gnome-screenshot
-- ex-fat fuse + ex-fat utils + ntfs-3g
+- gnome-screenshot (Desktop Screenshot saver)
+- ex-fat fuse + ex-fat utils + ntfs-3g (for connecting Drives)
 
 aditional packages for Python through "pip3":
-- PyExifTool
-- pysftp
+- PyExifTool (Exif tool for RAW images)
+- pysftp (python library for accesing through ssh)
 
 Also:
 - Netflix: Chromium Media Edition
 - Rclone
-
 
 
 NOTE: will reboot as it finishes!
