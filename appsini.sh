@@ -19,11 +19,6 @@ sh ventz-media-pi
 #Rclone
 curl https://rclone.org/install.sh | sudo bash
 
-#Aditional Apps
-git clone https://github.com/Botspot/pi-apps
-~/pi-apps/install
-
-
 #End
 echo "Install complete, rebooting."
 sudo reboot now
