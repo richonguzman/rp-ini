@@ -17,7 +17,6 @@ aditional packages for Python through "pip3":
 
 Also:
 - Netflix: Chromium Media Edition
-- Pi Apps
 - Rclone
 
 
