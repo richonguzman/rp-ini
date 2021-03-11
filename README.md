@@ -16,6 +16,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 aditional packages for Python through "pip3":
 - PyExifTool (Exif tool for RAW images)
 - pysftp (python library for accesing through ssh)
+- telepot (Telegram Bot library)
 
 Also:
 - Netflix: Chromium Media Edition
