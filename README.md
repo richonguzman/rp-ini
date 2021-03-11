@@ -8,6 +8,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - gparted (Drives managment)
 - matchbox-keyboard (for touch-screen also)
 - audacious (mp3 player - Winamp-ish)
+- double commander (file manager)
 - rpi-imager
 - gnome-screenshot (Desktop Screenshot saver)
 - ex-fat fuse + ex-fat utils + ntfs-3g (for connecting Drives)
