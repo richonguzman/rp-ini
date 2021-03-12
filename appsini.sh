@@ -3,7 +3,7 @@
 # fresh Raspberry Pi Os installation for personal use
 
 #Aplications
-APLICACIONES="libreoffice firefox-esr gimp gparted mc matchbox-keyboard rpi-imager audacious gnome-screenshot exfat-fuse exfat-utils ntfs-3g"
+APLICACIONES="libreoffice firefox-esr gimp gparted mc matchbox-keyboard rpi-imager audacious realvnc-vnc-viewer nmap crunch gnome-screenshot exfat-fuse exfat-utils ntfs-3g"
 sudo apt update && upgrade -y
 sudo apt install $APLICACIONES -y
 sudo apt-get install -y libimage-exiftool-perl
