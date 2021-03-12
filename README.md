@@ -10,6 +10,9 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - matchbox-keyboard (for touch-screen also)
 - audacious (mp3 player - Winamp-ish)
 - rpi-imager
+- realvnc viewer
+- nmap
+- crunch
 - gnome-screenshot (Desktop Screenshot saver)
 - ex-fat fuse + ex-fat utils + ntfs-3g (for connecting Drives)
 
