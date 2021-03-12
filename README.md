@@ -13,6 +13,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - realvnc viewer
 - nmap
 - crunch
+- zip
 - gnome-screenshot (Desktop Screenshot saver)
 - ex-fat fuse + ex-fat utils + ntfs-3g (for connecting Drives)
 
