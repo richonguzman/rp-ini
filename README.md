@@ -6,6 +6,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - firefox-esr (browser)
 - gimp (photoshop-esque)
 - gparted (Drives managment)
+- midnight commander (Total Commander gui from terminal)
 - matchbox-keyboard (for touch-screen also)
 - audacious (mp3 player - Winamp-ish)
 - rpi-imager
