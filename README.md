@@ -14,6 +14,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - nmap
 - crunch
 - macchanger
+- sshpass
 - unar
 - zip
 - gnome-screenshot (Desktop Screenshot saver)
