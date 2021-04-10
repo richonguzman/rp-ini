@@ -3,7 +3,6 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 
 - sudo apt update and upgrade
 - libreoffice (office)
-- firefox-esr (browser)
 - gimp (photoshop-esque)
 - gparted (Drives managment)
 - midnight commander (Total Commander gui from terminal)
@@ -17,6 +16,7 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - sshpass
 - unar
 - zip
+- mlocate
 - gnome-screenshot (Desktop Screenshot saver)
 - ex-fat fuse + ex-fat utils + ntfs-3g (for connecting Drives)
 
