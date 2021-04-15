@@ -9,7 +9,7 @@ sudo apt install $APLICACIONES -y
 sudo apt-get install -y libimage-exiftool-perl
 
 #Packages
-PAQUETES="PyExifTool pysftp telepot"
+PAQUETES="PyExifTool pysftp telepot simplekml"
 sudo pip3 install $PAQUETES
 
 #Netflix
