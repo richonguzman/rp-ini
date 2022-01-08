@@ -6,19 +6,17 @@ shell script to install apps and packages for personal use in new Raspberry pi O
 - libreoffice (office)
 - gimp (photoshop-esque)
 - gparted (Drives managment)
-- midnight commander (Total Commander gui from terminal)
 - matchbox-keyboard (for touch-screen also)
 - audacious (mp3 player - Winamp-ish)
 - rpi-imager
 - realvnc viewer
 - nmap
 - crunch
-- macchanger
-- sshpass
 - unar
 - zip
 - mlocate
 - gnome-screenshot (Desktop Screenshot saver)
+- libatlas3-base
 - ex-fat fuse + ex-fat utils + ntfs-3g (for connecting Drives)
 
 aditional packages for Python through "pip3":
@@ -26,6 +24,10 @@ aditional packages for Python through "pip3":
 - pysftp (python library for accesing through ssh)
 - telepot (Telegram Bot library)
 - simplekml (kml for google maps/google earth)
+- spidev
+- spicy
+- mariadb
+- mysql-connector-python
 
 Also:
 - Netflix: Chromium Media Edition
